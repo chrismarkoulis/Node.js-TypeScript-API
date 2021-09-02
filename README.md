@@ -1,2 +1,2 @@
 # nodejs-typescript-api
-Node.js API with TypeScript
+Node.js CRUD API with TypeScript/TypeORM/MySQL

@@ -1,0 +1,13 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "micronode",
+  "password": "micronode",
+  "database": "micronodeapi",
+  "entities": [
+    "dist/entity/*.js"
+  ],
+  "logging": false,
+  "synchronize": true
+}
